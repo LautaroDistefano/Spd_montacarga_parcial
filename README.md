@@ -1,18 +1,14 @@
-# Ejemplo Documentación 
-![Tinkercad](./img/ArduinoTinkercad.jpg)
-
-
 ## Integrantes 
 - Lautaro Torres Distefano
 
 
 ## Proyecto: Montacarga.
-![Tinkercad](./img/montacarga proyecto.png)
+![Tinkercad](./imagen/montacarga%20proyecto.png)
 
 
 
 ## Vista esquematica: Montacarga.
-![Tinkercad](./img/diagrama.png)
+![Tinkercad](./imagen/diagrama.png)
 
 ## Descripción
 Este trabajo es un modelo de montacarga funcional para un hospital.Implementa un sistema que puede recibir ordenes de subir, bajar o pausar
